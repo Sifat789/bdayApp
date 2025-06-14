@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Birthday App",
+            "request": "launch",
+            "mainClass": "main.java.com.example.birthdayapp.Main",
+            "vmArgs": "--module-path C:/Users/PC/Downloads/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
